@@ -1,3 +1,6 @@
+//the goal of this function is to read an input file and create a sorted link list, and printed at the end
+//the only thing missing in this work is freeing space at the end
+
 #include <stdio.h>
 #include <stdlib.h>
 
