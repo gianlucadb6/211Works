@@ -1,5 +1,5 @@
-//the goal of this function is to read an input file and create a sorted link list, and printed at the end
-//the only thing missing in this work is freeing space at the end
+//the goal of this function is to read an input file to created a sorted link list, which is printed when all entries are made
+//only function missing the freeing all allocated memory when finished
 
 #include <stdio.h>
 #include <stdlib.h>
