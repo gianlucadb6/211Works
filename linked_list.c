@@ -4,7 +4,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-//creating a node struct
+//defining a node type that contains its data and a pointer to the next node
 typedef struct Node Node;
 struct Node {
 	int data;
